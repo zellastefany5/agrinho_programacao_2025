@@ -16,6 +16,11 @@ body {
     line-height: 1.6;
 }
 
+img {
+    width: 200px;
+    height: auto;
+}
+
 /* Header */
 header {
     background: linear-gradient(135deg, #2f2b27, #5d8f46);
@@ -100,3 +105,4 @@ footer {
     text-align: center;
     padding: 1.5rem 2rem;
     font-size: 1rem
+}
